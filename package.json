@@ -11,9 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.7",
-    "sqlite": "^4.0.25"
-  },
-  "devDependencies": {
+    "sqlite": "^4.0.25",
     "express": "^4.17.3",
     "sqlite3": "^5.0.2"
   }
