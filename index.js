@@ -14,7 +14,7 @@ const key = process.argv[2] || process.env.CWB_AUTH_KEY;
 
 if (!key) {
     console.error('you should set apiKey for get weather data.');
-    express.exit(1);
+    process.exit(1);
 }
 
 const weatherDao = new WeatherDao(path.resolve(__dirname, DB_FILE));

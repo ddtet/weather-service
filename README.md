@@ -11,7 +11,7 @@ npm install
 ## RUN
 
 
-**should authkey [氣象資料開發平台](https://opendata.cwb.gov.tw/) by the first cli param or in the environment variable.**
+**should set authkey [氣象資料開發平台](https://opendata.cwb.gov.tw/) by the first cli param or in the environment variable.**
 
 ```
 # Set by the first cli param
