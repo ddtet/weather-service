@@ -31,5 +31,5 @@ http://127.0.0.1/addKey/[authKey]
 then use the key above to get weather data
 
 ```
-http://127.0.0.1/weatherData?authKey=[authKey]
+http://127.0.0.1/weatherData/[authKey]
 ```
